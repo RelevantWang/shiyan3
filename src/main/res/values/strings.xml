@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">music_player_wyw</string>
+    <string name="title_string">本地音乐</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">退出</string>
+    <string name="btn_confirm">确认</string>
+    <string name="btn_cancel">取消</string>
+    <string name="str_warning">警告</string>
+    <string name="menu_detail">文件详情</string>
+    <string name="menu_play">开始播放</string>
+    <string name="str_playing">歌曲已经在播放了</string>
+</resources>
